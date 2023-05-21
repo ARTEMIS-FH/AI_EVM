@@ -1,7 +1,7 @@
 # AI_EVM
 Voting--Face Detection
 
-## JUST USE THESE TWO LINES:
+## JUST USE THESE commands:
 conda create --name AI_EVM_env python=3.6
 # for activating env
 conda activate AI_EVM_env
